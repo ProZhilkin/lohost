@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('../images/wallpaper.jpg');
+  background-size: cover;
+}
+
+.wrapper {
+  font-family: Roboto;
+  margin: auto;
+  max-width: 1200px;
+}
